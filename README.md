@@ -20,7 +20,7 @@
 
 ### :woman_technologist: About Me :
 Blockchain enthusiast, self taught fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: Background in Management Consulting with extensive experience Agile Product Delivery experience.
+- :telescope: Background in Management Consulting with extensive Agile Product Delivery experience.
 
 - 📓: Currently Learning.... Front-End Web Development with React, Crypto Zombies - Solidity Path: Beginner to Intermediate Smart Contracts, Encode Polygon Hackathon.
 
