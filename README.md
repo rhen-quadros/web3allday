@@ -16,11 +16,11 @@
 Blockchain enthusiast, self taught fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: Background in Management Consulting with extensive Agile Product Delivery experience.
 
-- 📓: Currently Learning.... Front-End Web Development with React, Encode Polygon Hackathon, Crypto Zombies - Advanced Solidity Path.
+- 📓: Currently Learning.... Solidity Bootcamp
 
 - 📕: Completed: Courera Machine Learning, Front-End Bootstrap, Encode Tezos Hackathon, Crypto Zombies - Solidity Path: Beginner to Intermediate Smart Contracts.
 
-- 📘: Next in line... Solidity Bootcamp, Server-side Development with NodeJS, Express and MongoDB, learnjavascript.online
+- 📘: Next in line... Server-side Development with NodeJS, Express and MongoDB
 
 - :zap: Solana NFT Degen.
 
