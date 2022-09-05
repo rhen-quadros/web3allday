@@ -16,14 +16,6 @@
 Blockchain enthusiast, self taught fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: Background in Management Consulting with extensive Agile Product Delivery experience.
 
-- 📓: Currently Learning.... Solidity Bootcamp
-
-- 📕: Completed: Courera Machine Learning, Front-End Bootstrap, Encode Tezos Hackathon, Crypto Zombies - Solidity Path: Beginner to Intermediate Smart Contracts.
-
-- 📘: Next in line... Server-side Development with NodeJS, Express and MongoDB
-
-- :zap: Solana NFT Degen.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rhenquadros/)
 
 ---
