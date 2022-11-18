@@ -2,7 +2,7 @@
       <img src="https://komarev.com/ghpvc/?username=web3allday&style=flat-square&color=blue" alt=""/>
     </a>
   </div>
-  <h1> Hey! I'm Rhen! 👋 </h1>
+  <h1> Hey! 👋 </h1>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
